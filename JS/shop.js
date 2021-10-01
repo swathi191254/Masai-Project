@@ -1,0 +1,17 @@
+-webkit-text-size-adjust: 100%;
+-webkit-tap-highlight-color: transparent;
+font-family: Poppins,sans-serif;
+font-size: 18px;
+font-weight: 400;
+line-height: 28px;
+color: #777;
+box-sizing: border-box;
+display: flex;
+min-height: 500px;
+align-items: center;
+width: 100%;
+height: 500px;
+background-position: center center;
+background-repeat: no-repeat;
+background-size: cover;
+background-image: url('//cdn.shopify.com/s/files/1/0399/1728/9633/files/hero-desktop-ashwagandha_x720.jpg?v=1608662725');

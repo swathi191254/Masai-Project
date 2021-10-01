@@ -1,0 +1,110 @@
+.top-box{
+font-family: Poppins,sans-serif;
+font-size: 18px;
+font-weight: 400;
+line-height: 28px;
+color: #777;
+box-sizing: border-box;
+position: relative;
+display: flex;
+width: 100%;
+flex-direction: column;
+flex: 1 1 auto;
+background-image: url(https://i.shgcdn.com/f95290db-d02e-433c-9564-4766788d684c/-/format/auto/-/preview/3000x3000/-/quality/lighter/);
+background-repeat: no-repeat;
+background-size: cover;
+min-height: 400px;
+background-position: center center;
+justify-content: center;
+}
+.list{
+    
+font-family: Poppins,sans-serif;
+font-size: 18px;
+font-weight: 400;
+color: #777;
+list-style: none !important;
+text-decoration: none;
+cursor: pointer;
+flex-grow: 1;
+justify-content: center;
+align-items: center;
+margin-bottom: 0;
+float: left;
+box-sizing: border-box;
+margin-right: 2px;
+line-height: 1.42857143;
+position: relative;
+display: block;
+overflow: visible;
+}
+.content{
+    display: grid;
+    grid-template-columns: 50% 50%;
+}
+.content > div > p{
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+color: rgb(116, 113, 113);
+}
+.content > div > img{
+    margin-left: 50px;
+    padding: 20px;
+    width: 500px;
+}
+#orange{
+    height: 25px;
+    text-align: center;
+    background-color: rgb(255, 69, 0);
+    font-size: 22px;
+    
+    color: rgb(253, 247, 247);
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.bottom-box{
+    display: grid;
+    grid-template-columns: 25% 25% 25% 25%;
+    margin-top: 50px;
+    background-color: rgb(203, 203, 230);
+
+    padding: 50px;
+    
+ }
+.bottom-box>div>a> h3{
+    text-decoration: none;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 15px;
+    color: rgb(100, 99, 99);
+    
+ }
+ .bottom-box>div>a{
+    text-decoration: none;
+    
+
+ }
+.bottom-box>div>h3{
+ font-family: Verdana, Geneva, Tahoma, sans-serif;
+ font-size: 15px;
+ text-decoration: none;
+}
+.bottom-box > div> a> img{
+ width: 20px;
+ height: 20px;
+ margin: 10px;
+}
+.bottom-box>div>p{
+ font-family: Verdana, Geneva, Tahoma, sans-serif;
+ font-size: 15px;
+
+}
+#orange{
+  height: 25px;
+  text-align: center;
+  background-color: rgb(255, 69, 0);
+  font-size: 22px;
+  
+  color: rgb(253, 247, 247);
+  padding-top: 10px;
+  padding-bottom: 10px;
+}

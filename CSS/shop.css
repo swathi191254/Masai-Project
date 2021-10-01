@@ -1,0 +1,30 @@
+#shop-box{
+    display: grid;
+    grid-template-columns: 40% 30% 30%;
+    grid-template-rows: 50% 40%;
+    width: 800px;
+    column-gap: 40px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+}
+h4{
+    font-size: 15px;
+    color: rgb(150, 144, 144);
+}
+#container{
+    display: flex;
+}
+#img{
+    margin-left: 100px;
+    margin-top: 50px;
+}
+#orange{
+    height: 25px;
+    text-align: center;
+    background-color: rgb(255, 69, 0);
+    font-size: 22px;
+    
+    color: rgb(253, 247, 247);
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
